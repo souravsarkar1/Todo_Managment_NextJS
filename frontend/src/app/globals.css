@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+.navbar{
+    position: fixed;
+    width: 101%;
+    padding: 5px;
+    margin: -15px;
+   z-index: 2000;
+}
